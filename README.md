@@ -11,3 +11,6 @@ _Our brand doesn't have a logo yet_ (⁠╥⁠﹏⁠╥⁠)
 
 ## Palette
 The main color of the brand at the moment is `#ffc632` ![#ffc632](https://placehold.co/15x15/ffc632/ffc632.png) it used mainly for the background
+
+## Font
+Preferentially use sans-serif fonts. **Serif fonts are highly discouraged!**
